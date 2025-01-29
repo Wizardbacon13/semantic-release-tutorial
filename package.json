@@ -1,4 +1,5 @@
 {
+    "name": "001-semantic-release-tutorial",
     "version": "1.0.0",
     "description": "Test package for semantic-release tutorial",
     "main": "index.js",
