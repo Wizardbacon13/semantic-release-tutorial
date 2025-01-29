@@ -4,6 +4,7 @@
       branches:
         - main
 
+
   jobs:
     release:
       name: Release
